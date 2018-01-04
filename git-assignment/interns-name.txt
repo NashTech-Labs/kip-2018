@@ -1,5 +1,5 @@
 Write your names below.
-<<<<<<< HEAD
+
 
 
 
@@ -8,9 +8,11 @@ Write your names below.
 ayush prashar
 
 
+
 ayush hooda : Hello everyone, i love cricket and coding
 
 ayush prashar : Hi,I'm from bvicam,i like to code and play.
+<<<<<<< HEAD
 
 -----------------------
 Priyanka Thakur : I like watching movie.
@@ -18,4 +20,7 @@ Priyanka Thakur : I like watching movie.
 
 
 
+
+
+shubham verma : I like to make people laugh, i love to code  data structures and also love to play games
 
