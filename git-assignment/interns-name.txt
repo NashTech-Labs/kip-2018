@@ -5,14 +5,13 @@ Write your names below.
 
 
 
-ayush prashar
 
 
 
 ayush hooda : Hello everyone, i love cricket and coding
 
 ayush prashar : Hi,I'm from bvicam,i like to code and play.
-<<<<<<< HEAD
+
 
 -----------------------
 Priyanka Thakur : I like watching movie.
