@@ -4,7 +4,7 @@ ayush hooda : Hello everyone, i love cricket and coding
 ayush prashar : Hi,I'm from bvicam,i like to code and play.
 chunky Gupta: Hello everyone . love to code and play cricket
 Jyoti Sachdeva :Hello,I like reading novels,listening to music and dancing.
-kritika khandelwal:Hello everyone,I'm currently pursuing MCA from JIMS
+
 Miral Gandhi  : I'm from BVICAM, i like listening to music.
 Manjot Kaur : I love to travel.
 Nitin Arora : hey, I'm nitin Arora from BCIIT i like to play cricket and learning new technologies.
@@ -17,6 +17,7 @@ Vidisha Gupta : Hello everyone, I like accepting challenges and is sincere towar
 vinisha sharma:(From lbsim, optimistic, kind and passionate)
 Vinay Kumar   : I Like to write.
 Vidisha Gupta : Hello everyone, I like accepting challenges and is sincere towards my work.
+kritika khandelwal:Hello everyone,I'm currently pursuing MCA from JIMS
 
 
 
