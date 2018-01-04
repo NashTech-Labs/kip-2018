@@ -1,11 +1,18 @@
 Write your names below.
 
-ayush hooda : hello, i love cricket
-ayush prashar : Hi,I'm from bvicam,i like to code and play.
+
+ayush hooda : Hello everyone, i love cricket and coding
+
+ayush prashar : Hi,I'm from bvicam and i like to code and play.
+
+neelam lakra: this is Neelam from jims , curious to know about new terms and technologies...edited again
+shubham verma : I like to make people laugh, i love to code  data structures and also love to play games
+kritika khandelwal:Hello everyone,I'm currently pursuing MCA from JIMS
+Nitin Arora : hey, I'm nitin Arora from BCIIT i like to play cricket and learning new technologies.
 chunky Gupta: Hello everyone . love to code and play cricket
 deepankar singh: hello everyone i play table tennis
 Jyoti Sachdeva :Hello,I like reading novels,listening to music and dancing.
-kritika khandelwal:Hello everyone,I'm currently pursuing MCA from JIMS
+
 Miral Gandhi  : I'm from BVICAM, i like listening to music.
 Manjot Kaur : I love to travel.
 Nitin Arora : hey, I'm nitin Arora from BCIIT i like to play cricket and learning new technologies.
@@ -18,7 +25,9 @@ Vidisha Gupta : Hello everyone, I like accepting challenges and is sincere towar
 vinisha sharma:(From lbsim, optimistic, kind and passionate)
 Vinay Kumar   : I Like to write.
 Vidisha Gupta : Hello everyone, I like accepting challenges and is sincere towards my work.
+
 Sudeep James Tirkey : I like reading and listening to music. My musical tastes range from metal to world music.
 Manjot Kaur : I love to travel.
 vinisha sharma:(From lbsim, optimistic, kind and passionate and humble)
+kritika khandelwal:Hello everyone,I'm currently pursuing MCA from JIMS
 
