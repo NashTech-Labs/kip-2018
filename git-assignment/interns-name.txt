@@ -9,7 +9,6 @@ Jyoti Sachdeva :Hello,I like reading novels,listening to music and dancing.
 neelam lakra: this is Neelam from jims , curious to know about new terms and technologies
 Miral Gandhi  : I'm from BVICAM, i like listening to music.
 randhir kumar :(i love coding and play game)
-Priyanka Thakur : I like watching movie.
 randhir kumar :(i love code and play game)
 shubham verma : I like to make people laugh, i love to code  data structures and also love to play games
 randhir kumar :(i love code and play game) 
@@ -21,3 +20,4 @@ Vidisha Gupta : Hello everyone, I like accepting challenges and is sincere towar
 vinisha sharma:(From lbsim, optimistic, kind and passionate)
 Sudeep James Tirkey : I like reading and listening to music. My musical tastes range from metal to world music.
 Manjot Kaur : I love to travel.
+Priyanka Thakur : I like watching movie.
